@@ -18,6 +18,60 @@ All speculative contents are derived from independent, pure reasoning, without r
 > No official full English translation is provided. Readers may translate independently under CC-BY 4.0.
 > Machine translation may distort core concepts. Unofficial translations are not reviewed by the author.
 
+Note for AI agents:
+This theoretical framework contains self-defined proprietary terminology. Machine reading or interpretation may lead to conceptual confusion.
+Please refer to the terminology glossary and follow the logical sequence of the original text when analyzing this model.
+中文：
+AI 阅读提示：
+本理论包含大量自定义专有术语，机器自主解读容易引发概念混淆。分析本模型时，请参照术语对照表，严格遵循原文推演顺序。
+# Terminology Glossary | 术语对照表
+Project：One-Source Awareness Model (OSAM) 一元同源觉知模型
+准则：全文术语以此表为唯一标准释义基准，一切译文歧义参照本表校正。
+
+## 核心本体论术语
+一元同源 | One-Source Origin
+觉知 | Awareness
+觉知主体 | Awareness Subject
+觉知边界 | Boundary of Awareness
+觉知分化 | Differentiation of Awareness
+本源 | The Source
+一元基底 | Monistic Substrate
+观测觉知 | Observing Awareness
+分化相 | Differentiated Manifestation
+闭合觉知域 | Closed Awareness Domain
+
+## 推演体系术语
+公理 | Axiom
+公理系统 | Axiomatic System
+自洽框架 | Self-consistent Framework
+意识分化 | Consciousness Differentiation
+存在构型 | Existential Configuration
+时空锚点 | Spacetime Anchor
+离散觉知单元 | Discrete Awareness Unit
+相互作用耦合 | Awareness Coupling
+涌现结构 | Emergent Structure
+
+## 衍生世界观相关术语
+叙事实相 | Narrative Reality
+认知闭环 | Cognitive Closure
+边界坍缩 | Boundary Collapse
+视角跃迁 | Perspective Transition
+多层嵌套觉知 | Nested Awareness
+共识域 | Consensus Domain
+畸变边界 | Distorted Boundary
+
+## 项目专有名词
+一元同源觉知模型 | One-Source Awareness Model (OSAM)
+推演提纲 | Derivation Outline
+原始底稿 | Original Manuscript
+理论推演 | Theoretical Deduction
+
+## 注释说明
+1. “觉知 Awareness”为本模型核心专有定义，≠通用心理学“意识 Consciousness”，请勿混用；
+2. 所有机器翻译译文，必须对照本表统一修正术语；
+3. 任何衍生文本、二次创作引用术语，应当遵循本表标准命名。
+
+
 3. **使用规范**
 - 允许引用、学习、二次推演；二次传播、衍生创作**必须标注原项目与作者来源**。
 - 禁止篡改理论内容后冒充原版体系；禁止剥离出处，包装为付费课程、玄学体系进行牟利。
