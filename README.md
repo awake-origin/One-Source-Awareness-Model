@@ -2,6 +2,9 @@
 The One-Source Awareness Model (OSAM): a self-consistent ontological framework for consciousness differentiation and worldview construction.
 [一元同源觉知推理模型.pdf](https://github.com/user-attachments/files/30595852/default.pdf)
 如果你对思想逻辑及哲学底层感兴趣，你可以阅读原稿文档内容；你可以看出这套推演模型出处与过程。一套文学及数学公式构成的模型，作者创作小说，已经付出实践行动，感兴趣以后可以根据作者署名寻找。对于思辨内容，不参考所有宗教思想、现有理论，完全独立纯粹的思辨内容。
+If you are interested in logical reasoning and philosophical fundamentals, you may read the original documents to trace the origin and derivation process of this model.
+This framework is constructed by literary narration and mathematical formalism. Its author has put the theoretical system into practical practice through novel creation; interested readers can locate relevant works by the author’s signature.
+All speculative contents are derived from independent, pure reasoning, without reference to any religious doctrines or pre-existing theories.
 [一元同源觉知推演模型原稿.pdf](https://github.com/user-attachments/files/30595873/default.pdf)
 ## 重要说明 Notice
 1. **权威原版**
