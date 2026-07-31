@@ -83,6 +83,7 @@ Content of this repository is licensed under **Creative Commons Attribution 4.0 
 - **性质**：公共思想资源 · 幻想创作者工具箱 · 形而上思辨框架
 - **状态**：V1.0 · 2026年8月 · 首发于 GitHub / Zenodo
 - **作者**：异帧玄造
+- Author: Yi Frame Mystic Forge
 - **DOI**：（待 Zenodo 生成后填入）
 
 ---
