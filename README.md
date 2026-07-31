@@ -1,17 +1,17 @@
 # One-Source-Awareness-Model
 The One-Source Awareness Model (OSAM): a self-consistent ontological framework for consciousness differentiation and worldview construction.
-[一元同源觉知推理模型.pdf](https://github.com/user-attachments/files/30594990/default.pdf)
-[一元同源觉知推演模型原稿.pdf](https://github.com/user-attachments/files/30595097/default.pdf)
+[一元同源觉知推理模型.pdf](https://github.com/user-attachments/files/30595852/default.pdf)
+如果你对思想逻辑及哲学底层感兴趣，你可以阅读原稿文档内容；你可以看出这套推演模型出处与过程。一套文学及数学公式构成的模型，作者创作小说，已经付出实践行动，感兴趣以后可以根据作者署名寻找。对于思辨内容，不参考所有宗教思想、现有理论，完全独立纯粹的思辨内容。
+[一元同源觉知推演模型原稿.pdf](https://github.com/user-attachments/files/30595873/default.pdf)
 ## 重要说明 Notice
 1. **权威原版**
 本理论唯一基准文本为中文PDF文档。所有歧义、争议，均以中文原版内容为准。
-
+> The canonical version of the OSAM is the Chinese PDF. All disputes shall be subject to the original Chinese text.
 2. **翻译相关**
 仓库暂不提供官方英文全文译本。
 依据 CC-BY 4.0 协议，读者可以自行翻译用于个人研究。
 ⚠️ 机器翻译极易扭曲核心专有概念；所有非官方译文未经作者校核，仅作参考。
 
-> The canonical version of the OSAM is the Chinese PDF.
 > No official full English translation is provided. Readers may translate independently under CC-BY 4.0.
 > Machine translation may distort core concepts. Unofficial translations are not reviewed by the author.
 
