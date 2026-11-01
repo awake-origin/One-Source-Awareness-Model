@@ -110,7 +110,7 @@ Content of this repository is licensed under **Creative Commons Attribution 4.0 
 ## 核心文档
 - [势能与涌现 定性概念框架（学术对齐完整终稿）](./势能与涌现%20定性概念框架%20（学术对齐完整终稿）(1).pdf)
 https://github.com/awake-origin/One-Source-Awareness-Model/commit/12c885bda31a6ae6d4ce4d133e780bd1346c3a1f
-作为启示用的概念性文档 和一元觉知模型配套使用。
+作为启示用的概念性文档 和一元觉知模型配套使用。Conceptual framework document for use alongside the One-Source Awareness Model.
 ## 原创声明 & 授权
 
 本文全部文字内容为原创，享有完整著作权。
